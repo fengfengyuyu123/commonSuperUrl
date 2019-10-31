@@ -1,1 +1,1 @@
-window.commonUrl = 'https://0563jr.cn/';
+'https://0563jr.cn/'
